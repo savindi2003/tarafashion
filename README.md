@@ -28,10 +28,10 @@ Admin users can manage products, categories, and view sales reports.
    
 2. Import database
    - Create a new database(tharafashion)
-   - Import the tarafashion.sql file from /database folder
+   - Import the `tarafashiobDB.sql` file from /database folder
   
 3. Configure database connection
-   - Open connection.php
+   - Open `connection.php`
    - Update host,username,password,database name
      
 4. Start local server (XAMPP / Laragon / WAMP)
@@ -42,17 +42,24 @@ Admin users can manage products, categories, and view sales reports.
 ## 🛍️ Usage
 - Customer:
   - Register a new account
-  - Browse products and add to cart
+  - Log In
+  - Browse products
+  - Advanced Search
+  - Add , Remove to wishlist
+  - Add , Remove to cart
   - Checkout and confirm order
+  - Manage Order
   - Ratings and Feedback
+  - Chat with Admin
 
 - Admin:
   - Login with admin credentials
   - Email Verification Process
-  - Manage products & categories
+  - Manage productss
   - View orders and update status
   - Manage Customers
   - Manage Feedbacks
+  - Chat with customers
 
  ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
