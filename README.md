@@ -1,5 +1,13 @@
 # Thara Fashion Store E-commerce Website (PHP)
 
+[![Platform](https://img.shields.io/badge/platform-Web-blue)]()
+[![Language](https://img.shields.io/badge/language-PHP-777bb3)]()
+[![Database](https://img.shields.io/badge/database-MySQL-orange)]()
+[![Framework](https://img.shields.io/badge/framework-Bootstrap-purple)]()
+[![License](https://img.shields.io/badge/license-MIT-green)]()
+
+
+
 A simple e-commerce platform built using PHP and MySQL.  
 It allows customers to browse products, add items to cart, and place orders.  
 Admin users can manage products, categories, and view sales reports.
