@@ -61,10 +61,10 @@ Admin users can manage products, categories, and view sales reports.
   - Manage Feedbacks
   - Chat with customers
 
- ## License
+## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+## 👩‍💻 Author
 **Savindi Duleesha**  
 - 📧 savindiduleesha@gmail.com 
 - 🌐 [Portfolio](https://savindi2003.github.io/my-portfolio/)
