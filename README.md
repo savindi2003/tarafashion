@@ -7,6 +7,7 @@ Admin users can manage products, categories, and view sales reports.
 ## ✨ Features
 - User registration & login (Customer)
 - Product listing with categories
+- Advanced Search
 - Shopping cart & checkout
 - Order management
 - Payment integration (Payhere)
@@ -43,14 +44,23 @@ Admin users can manage products, categories, and view sales reports.
   - Register a new account
   - Browse products and add to cart
   - Checkout and confirm order
+  - Ratings and Feedback
 
 - Admin:
   - Login with admin credentials
   - Email Verification Process
   - Manage products & categories
   - View orders and update status
+  - Manage Customers
+  - Manage Feedbacks
 
- ## 📜 License
-This project is licensed under the MIT License.
+ ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+**Savindi Duleesha**  
+- 📧 savindiduleesha@gmail.com 
+- 🌐 [Portfolio](https://savindi2003.github.io/my-portfolio/)
+
 
    
